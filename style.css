@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 10px 16px;
+    font-size: inherit;
+    background-color: #00FFFF;
+    border: 1px solid grey;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#input {
+    width: 5rem;
+    height: 1.5rem;
+    font-size: 1rem;
+}
